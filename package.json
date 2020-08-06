@@ -1,0 +1,16 @@
+{
+  "name": "dispose-helper",
+  "version": "1.1.3",
+  "description": "自动化部署工具",
+  "main": "index.js",
+  "author": "郭建强",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-ssh": "^10.0.2"
+  },
+  "bin": {
+    "dispose": "./index.js"
+  },
+  "keywords": ["ssh", "automated deployment", "git"]
+}
