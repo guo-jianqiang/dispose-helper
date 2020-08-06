@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "郭建强",
   "license": "ISC",
+  "scripts": {
+    "publish": "npm publish"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "node-ssh": "^10.0.2"
