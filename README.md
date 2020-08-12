@@ -1,5 +1,17 @@
 # Dispose-helper
 
+## Your System
+
+centos
+
+## System Tool
+
+```
+sudo yum install zip // 系统压缩工具
+sudo yum install unzip // 系统解压工具
+sudo yum install nginx // 部署静态资源服务器
+```
+
 Pull git online code through ssh to connect to the server, implement install and build with one click, and configure nginx to implement automated deployment
 
 ```
